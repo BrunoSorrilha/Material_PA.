@@ -1,0 +1,9 @@
+(nota1 + nota2) * 2 = bimestre1
+(nota3 + nota4) * 2 = bimestre2
+(nota5 + nota6) * 2 = bimestre3
+(nota7 + nota8) * 2 = bimestre4
+(bimestre1 + bimestre2 + bimestre3 + bimestre4) * 4 = bimestreF
+
+
+
+nome, nota1, nota2, nota3, nota4, nota5, nota6, nota7, nota8, bimestre1, bimestre2, bimestre3, bimestre4, bimestref
